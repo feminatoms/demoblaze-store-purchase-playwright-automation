@@ -1,0 +1,29 @@
+{
+   "invalidUsername" : "Femina4534",
+   "validPassword" : "Storeopen",
+   "wrongPassword" : "StoreActive",
+
+   "successMessage" : "Sign up successful",
+   "invalidUserErrorMessage" : "User does not exist.",
+   "invalidPasswordErrorMessage" : "Wrong password.",
+   "purchaseAlert" : "Product added.",
+   
+   "laptop" : "Sony vaio i5",
+   "laptopCategory" : "Laptops",
+
+   "phone" : "Iphone 6 32gb",
+   "phoneCategory" : "Phones",
+
+   "monitor" : "Apple monitor 24",
+   "monitorCategory" : "Monitors",
+   
+   "clickType" : "image",
+
+   "customer_Name" : "Diyona Sebastian",
+   "customer_Country" : "Germany",
+   "customer_City" : "Berlin",
+   "customer_cardNumber" : "4242 4242 4242 4242",
+   "customer_cardMonth" : "10",
+   "customer_cardYear" : "30"
+
+}

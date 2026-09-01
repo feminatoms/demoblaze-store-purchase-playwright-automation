@@ -17,6 +17,7 @@ import { on } from 'events';
 const config = ({
   testDir: './tests',
   timeout: 60*1000,
+  retries: process.env.CI ? 2 : 0,
   expect: {
    timeout: 60*1000 //Assertion timeout
   },

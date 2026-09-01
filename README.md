@@ -36,3 +36,5 @@ npx playwright show-report
 This is a personal, self-directed automation project built to apply hands-on
 Playwright training to a realistic end-to-end purchase flow. It is not
 professional/client work.
+
+

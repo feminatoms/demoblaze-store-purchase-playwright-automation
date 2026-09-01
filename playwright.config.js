@@ -23,7 +23,7 @@ const config = ({
   reporter:'html',
   use: {
     browserName: 'chromium',
-    headless: false,
+    headless: true, // previously : false, updated due the issue in Github
     screenshot : "on",
     trace : "on",
 
